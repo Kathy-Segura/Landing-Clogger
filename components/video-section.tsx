@@ -101,7 +101,7 @@ export default function VideoSection() {
                 <div className="w-full aspect-video bg-black flex items-center justify-center">
                   <video
                     className="w-full h-full"
-                    src="/demo_Ejemplo.mp4"
+                    src="/demo.mp4"
                     controls
                     autoPlay
                   />
